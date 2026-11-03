@@ -51,7 +51,7 @@ The patched ROM should have this SHA-1: `7d3045b925e85227aa8b7f08dd91ee12e81378d
 - Gym Leader rematches in their Gyms after the Elite Four (no phone call needed), plus daily Kanto Leader rematches.
 - Rebuilt teams for the Team Rocket Executives and grunts.
 - Smoother level curve (around the mid 40s by the Elite Four), more varied trainer teams, fewer duplicates.
-- New and expanded battles with Silver, Lyra/Ethan, Eusine and Bill, plus a tag battle with Silver against Lance and Clair.
+- New and expanded battles with Silver, Lyra/Ethan, Eusine and Bill, and team rocket excutives in kanto
 
 ### Story
 - Lance appears more often, and Clair's badge scene is new.
