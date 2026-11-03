@@ -1,95 +1,85 @@
-POKEMON ENHANCED HEARTGOLD
-A Pokémon HeartGold ROM hack inspired by Smith Playz's Pokemon
-Legacy series. It aims to make HeartGold more replayable and
-more challenging while staying fair, with many quality of life
-improvements and an expanded story.
+# Pokémon Enhanced HeartGold
 
-You need:
+A Pokémon HeartGold ROM hack inspired by Smith Playz's Pokémon Legacy series. It aims to make HeartGold more replayable and more challenging while staying fair, with many quality of life improvements and an expanded story.
 
-- Your Pokemon HeartGold (USA) ROM.
-  This patch only works on this exact version:
-    Game code : IPKE
-    File size : 134,217,728 bytes
-    SHA-1     : eb47ab4ba0326ae842135f62c7ec68cf85c9785f
+## Downloads
 
-  You can check the SHA-1 with a site like romhasher.com or a
-  hashing tool. If it doesn't match, the patch will fail or the
-  game may not work.
+| File | What it is |
+|---|---|
+| [Enhanced Heart Gold.xdelta](Enhanced%20Heart%20Gold.xdelta) | The patch |
+| [POKEMON_ENHANCED_HEART_GOLD.docx](POKEMON_ENHANCED_HEART_GOLD.docx) | Full guide: every team, story change, move and Pokémon change |
+| [Enhanced Heartgold Encounter Data.docx](Enhanced%20Heartgold%20Encounter%20Data.docx) | Where to find every Gen 1-2 Pokémon |
 
-- An xdelta patcher, for example:
-    Windows : xdelta UI or Delta Patcher
-    Mac     : Multipath or Delta Patcher
-    Android : UniPatcher
-    Online  : romhacking.net's online patcher or Rom Patcher JS
+## What you need
 
-- A DS emulator such as melonDS or DeSmuME (or a flashcart).
+- **Your own Pokémon HeartGold (USA) ROM.** The patch only works on this exact version:
 
+  | | |
+  |---|---|
+  | Game code | `IPKE` |
+  | File size | 134,217,728 bytes |
+  | SHA-1 | `eb47ab4ba0326ae842135f62c7ec68cf85c9785f` |
 
-HOW TO PATCH
-Use a Rom Patcher to Patch this and use 
+  You can check the SHA-1 with a site like romhasher.com or a hashing tool. If it doesn't match, the patch will fail or the game may not work.
 
-The patched ROM should have this SHA-1:
-  7d3045b925e85227aa8b7f08dd91ee12e81378d3
+- **An xdelta patcher**, for example:
+  - Windows: xdelta UI or Delta Patcher
+  - Mac: MultiPatch or Delta Patcher
+  - Android: UniPatcher
+  - Online: Rom Patcher JS
 
+- **A DS emulator** such as melonDS or DeSmuME (or a flashcart).
 
-FEATURES
+## How to patch
 
-Battles and trainers
-- All 8 Johto and 8 Kanto Gym Leaders have new teams, items and
-  movesets, with more Johto Pokemon. Kanto Leaders are
-  champion-level.
-- Chuck, Jasmine and Pryce scale with your badge count, so you
-  can fight them in any order.
-- Gym Leader rematches in their Gyms after the Elite Four (no
-  phone call needed), plus daily Kanto Leader rematches.
+1. Download `Enhanced Heart Gold.xdelta`.
+2. Open your patcher and choose:
+   - **Patch:** `Enhanced Heart Gold.xdelta`
+   - **Source / original file:** your HeartGold (USA) ROM
+   - **Output:** any name, for example `Pokemon Enhanced HeartGold.nds`
+3. Apply the patch and play the new `.nds` file.
+
+The patched ROM should have this SHA-1: `7d3045b925e85227aa8b7f08dd91ee12e81378d3`
+
+**Start a new game.** Saves from the original game are not supported.
+
+## Features
+
+### Battles and trainers
+- All 8 Johto and 8 Kanto Gym Leaders have new teams, items and movesets, with more Johto Pokémon. Kanto Leaders are champion-level.
+- Chuck, Jasmine and Pryce scale with your badge count, so you can fight them in any order.
+- Gym Leader rematches in their Gyms after the Elite Four (no phone call needed), plus daily Kanto Leader rematches.
 - Rebuilt teams for the Team Rocket Executives and grunts.
-- Smoother level curve (around the mid 40s by the Elite Four),
-  more varied trainer teams, fewer duplicates.
-- New and expanded battles with Silver, Lyra/Ethan, Eusine, Bill,
-  plus a tag battle with Silver against Lance and Clair.
+- Smoother level curve (around the mid 40s by the Elite Four), more varied trainer teams, fewer duplicates.
+- New and expanded battles with Silver, Lyra/Ethan, Eusine and Bill, plus a tag battle with Silver against Lance and Clair.
 
-Story
+### Story
 - Lance appears more often, and Clair's badge scene is new.
 - Giovanni appears in the Radio Tower.
 - The Rocket Executives continue their story in Kanto.
 - New scenes for Silver, Eusine, Morty, Blue and Red.
 
-Pokemon
-- SoulSilver-exclusive Pokemon in the wild, more variety on
-  every route, and hard-to-find Pokemon made easier.
+### Pokémon
+- SoulSilver-exclusive Pokémon in the wild, more variety on every route, and hard-to-find Pokémon made easier.
 - Base stat, move, learnset and ability changes.
-- No trade evolutions: they evolve by level or by using the
-  item from the Bag.
-- 10 one-time static Pokemon with perfect IVs and an egg move.
-- Mew (Mystic Flute, Vermilion City) and Celebi (GS Ball from
-  Kurt) can be caught in the post-game.
+- No trade evolutions: they evolve by level or by using the item from the Bag.
+- 10 one-time static Pokémon with perfect IVs and an egg move.
+- Mew (Mystic Flute, Vermilion City) and Celebi (GS Ball from Kurt) can be caught in the post-game.
 
-Quality of life
+### Quality of life
 - TMs are reusable and HMs can be forgotten.
 - Critical hits deal 1.5x damage.
 - "Use another Repel?" prompt.
 - Move Reminder (free) and Move Deleter in Ecruteak City.
-- Evolution stones and a berry seller in Goldenrod, unlocked by
-  badges. Cheaper vitamins.
+- Evolution stones and a berry seller in Goldenrod, unlocked by badges. Cheaper vitamins.
 - Gift Egg from the Day-Care Man (12% shiny chance).
 - A nurse in the Radio Tower during the Rocket takeover.
-- Following Pokemon react to more places and can find items.
+- Following Pokémon react to more places and can find items.
 - Random daily weather in Johto.
 
+## Notes
+- Arceus is not obtainable in-game, the same as the original game.
+- Found a bug? Please [open an issue](../../issues) with what you were doing, where you were, and a screenshot if possible.
 
-
-- Arceus is not obtainable in-game, the same as the original
-  game.
-- If you find a bug, please report what you were doing, where
-  you were, and (if possible) a screenshot.
-
-
---------------------------------------------------------------
-LEGAL
---------------------------------------------------------------
-
-This is a free, unofficial fan project. It is not affiliated
-with or endorsed by Nintendo, Game Freak or The Pokemon Company.
-Pokemon and all related names are trademarks of their
-respective owners. No ROM is included: you must own the game
-and use your own copy. Do not sell this patch.
+## Legal
+This is a free, unofficial fan project. It is not affiliated with or endorsed by Nintendo, Game Freak or The Pokémon Company. Pokémon and all related names are trademarks of their respective owners. No ROM is included: you must own the game and use your own copy. Do not sell this patch.
