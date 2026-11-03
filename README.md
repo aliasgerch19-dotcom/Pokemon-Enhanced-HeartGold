@@ -41,7 +41,7 @@ A Pokémon HeartGold ROM hack inspired by Smith Playz's Pokémon Legacy series. 
 
 The patched ROM should have this SHA-1: `7d3045b925e85227aa8b7f08dd91ee12e81378d3`
 
-**Start a new game.** Saves from the original game are not supported.
+
 
 ## Features
 
