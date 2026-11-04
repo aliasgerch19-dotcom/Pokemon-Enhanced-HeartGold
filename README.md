@@ -5,8 +5,7 @@ A Pokémon HeartGold ROM hack inspired by Smith Playz's Pokémon Legacy series. 
 ## Downloads
 
 | File | What it is |
-|---|---|
-| [Enhanced Heart Gold.xdelta](Enhanced%20Heart%20Gold.xdelta) | The patch |
+Pokemon Enhanced HeartGold Patch
 | [POKEMON_ENHANCED_HEART_GOLD.docx](POKEMON_ENHANCED_HEART_GOLD.docx) | Full guide: every team, story change, move and Pokémon change |
 | [Enhanced Heartgold Encounter Data.docx](Enhanced%20Heartgold%20Encounter%20Data.docx) | Where to find every Gen 1-2 Pokémon |
 
