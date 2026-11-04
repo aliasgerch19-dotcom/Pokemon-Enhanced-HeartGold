@@ -17,7 +17,7 @@ Pokemon Enhanced HeartGold Patch
   |---|---|
   | Game code | `IPKE` |
   | File size | 134,217,728 bytes |
-  | SHA-1 | `eb47ab4ba0326ae842135f62c7ec68cf85c9785f` |
+  | SHA-1 | '6179d38125144aeb7c30ed8535971dac1d0e3104`|
 
   You can check the SHA-1 with a site like romhasher.com or a hashing tool. If it doesn't match, the patch will fail or the game may not work.
 
