@@ -90,8 +90,8 @@ The patched ROM should have this SHA-1: `24665ce74b6336044bd1b4892c692e2323dc647
 **Tools used**
 - ndspy by RoadrunnerWMC
 - pret's pokeheartgold disassembly
-- xdelta3 (making the patch)
-- DeSmuME, through py-desmume (automated boot testing)
+- xdelta3 
+- DeSmuME
 - DSPRE
 
 
